@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit Memon</h1>
 <h3 align="center">A passionate about Software Development, love to do coding and design, Tech Enthusiast, Self Learner & Explorer.</h3>
 
-- 🔭 I’m currently working on **Java Kotlin**
+- 🔭 I’m currently working on **Java and Cpp**
 
 - 🌱 I’m currently learning **Database and Networking**
 
