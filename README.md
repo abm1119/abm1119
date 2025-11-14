@@ -2,7 +2,7 @@
 **Creative Technologist · Product Designer & Developer · Indie Hacker**  
 
 [![Twitter](https://img.shields.io/badge/Twitter-@AbdAbdulbasit1-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AbdAbdulbasit1)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul-Basit-Memon-614961166-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/abdul-basit-memon-614961166)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Basit_Memon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/abdul-basit-memon-614961166)
 [![Email](https://img.shields.io/badge/Email-basitmemon67@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:basitmemon67@gmail.com)
 
 ---
