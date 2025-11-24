@@ -12,7 +12,7 @@
 
 > Techdio Waitlist: https://techdio-project.vercel.app  
 > Portfolio: https://www.engrabm.com
-> Borlolabs: http://borlolabs.com/
+> BorloLabs: http://borlolabs.com/ 
 ---
 
 ## 🧭 Snapshot  
